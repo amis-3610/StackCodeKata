@@ -1,4 +1,5 @@
 using Xunit;
+using StackCodeKata.Core;
 
 namespace StackCodeKata.Core.Tests
 {
@@ -12,7 +13,7 @@ namespace StackCodeKata.Core.Tests
 
             // Act
             stack.Push("foo");
-            
+
             //Assert
             //TODO
         }
